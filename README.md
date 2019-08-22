@@ -7,10 +7,8 @@
 
 #### Instructions
 1. You are to clone this repository and use this as the template code for your solution.
-2. After writing a successful solution, you are supposed to host it on GitHub as a repository with the following name:
-`GLAU_OOP_2019_Assignment1_Solution`.
-3. Please do not host code that you did not write. Doing so will be an act of misconduct.
-4. You are free to ask for help from me via email or WhatsApp.
+2. Please do not host code that you did not write. Doing so will be an act of misconduct.
+3. You are free to ask for help from me via email or WhatsApp.
 ---
 
 #### Problem Statement
