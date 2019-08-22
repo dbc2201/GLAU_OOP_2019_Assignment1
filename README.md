@@ -8,7 +8,7 @@
 #### Instructions
 1. You are to clone this repository and use this as the template code for your solution.
 2. Please do not host code that you did not write. Doing so will be an act of misconduct.
-3. You are free to ask for help from me by creating an issure [here](https://github.com/dbc2201/GLAU_BCSC0002/issues/new?assignees=&labels=DOUBT&template=doubt.md&title=DOUBT)
+3. You are free to ask for help from me by creating an issue [here](https://github.com/dbc2201/GLAU_BCSC0002/issues/new?assignees=&labels=DOUBT&template=doubt.md&title=DOUBT)
 ---
 
 #### Problem Statement
