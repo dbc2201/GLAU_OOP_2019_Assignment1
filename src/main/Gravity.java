@@ -8,6 +8,7 @@ package main;
 // uncomment the above line to use input in your program.
 
 public class Gravity {
+	private static final double GRAVITY_CONSTANT = 9.8;
 	public static void main(String[] args) {
 		int timeInSeconds;
 		float speedInKMPerHour;
